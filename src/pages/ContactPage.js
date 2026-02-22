@@ -346,7 +346,7 @@ const ContactPage = () => {
                     className="v-btn-marketplace no-underline text-[13px]"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/shopee.svg" width="18" height="18" />
+                      <image href="/logo/shopee.svg" width="18" height="18" />
                     </svg>
                     Shopee
                   </a>
@@ -357,7 +357,7 @@ const ContactPage = () => {
                     className="v-btn-marketplace no-underline text-[13px]"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/tokopedia.svg" width="18" height="18" />
+                      <image href="/logo/tokopedia.svg" width="18" height="18" />
                     </svg>
                     Tokopedia
                   </a>
@@ -368,7 +368,7 @@ const ContactPage = () => {
                     className="v-btn-marketplace no-underline text-[13px]"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/tiktok.svg" width="18" height="18" />
+                      <image href="/logo/tiktok.svg" width="18" height="18" />
                     </svg>
                     TikTok
                   </a>
@@ -379,7 +379,7 @@ const ContactPage = () => {
                     className="v-btn-marketplace no-underline text-[13px]"
                   >
                     <svg width="20" height="20" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/instagram.svg" width="20" height="20" />
+                      <image href="/logo/instagram.svg" width="20" height="20" />
                     </svg>
                     Instagram
                   </a>

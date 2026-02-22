@@ -289,7 +289,7 @@ const HomePage = () => {
                   <path d="M12 2C9.243 2 7 4.243 7 7h2c0-1.654 1.346-3 3-3s3 1.346 3 3h2c0-2.757-2.243-5-5-5zM5 7c-.553 0-1 .448-1 1v1.5c0 .276.224.5.5.5h15c.276 0 .5-.224.5-.5V8c0-.552-.447-1-1-1H5zm-1.5 4l1.571 11H18.93L20.5 11h-17zm7.5 2c1.654 0 3 1.346 3 3s-1.346 3-3 3-3-1.346-3-3 1.346-3 3-3zm0 2c-.551 0-1 .449-1 1s.449 1 1 1 1-.449 1-1-.449-1-1-1z"/>
                 </svg> */}
                 <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                  <image href="/public/logo/shopee.svg" width="18" height="18" />
+                  <image href="/logo/shopee.svg" width="18" height="18" />
                 </svg>
                 Shopee
               </a>
@@ -303,7 +303,7 @@ const HomePage = () => {
                   <path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L19.17 8 12 11.82 4.83 8 12 4.18zM4 9.06l7 3.5V19.5l-7-3.5V9.06zm9 10.44V12.56l7-3.5V15.5l-7 3.5z"/>
                 </svg> */}
                 <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                  <image href="/public/logo/tokopedia.svg" width="18" height="18" />
+                  <image href="/logo/tokopedia.svg" width="18" height="18" />
                 </svg>
                 Tokopedia
               </a>
@@ -317,7 +317,7 @@ const HomePage = () => {
                   <path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 00-.79-.05A6.34 6.34 0 003.15 15.2a6.34 6.34 0 0010.86 4.46V13.2a8.16 8.16 0 004.74 1.52v-3.4a4.85 4.85 0 01-.84-.07 4.83 4.83 0 01-.32-4.56z"/>
                 </svg> */}
                 <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                  <image href="/public/logo/tiktok.svg" width="18" height="18" />
+                  <image href="/logo/tiktok.svg" width="18" height="18" />
                 </svg>
                 TikTok Shop
               </a>

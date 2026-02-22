@@ -25,16 +25,16 @@ export const MARKETPLACE_LINKS = {
 };
 
 export const CONTACT_INFO = {
-  address: "Ruko Pasar Tanah Abang Blok F",
+  address: "Ruko Pasar Tanah Abang Blok F No. 96",
   phone: "+62 852-8007-1275",
-  email: "info@varisha.com",
+  email: "vh.varishaofficial@gmail.com",
   operationalHours: "Senin – Sabtu, 08:00 – 17:00",
 };
 
 // export const CONTACT_INFO = {
 //   address: "Ruko Pasar Tanah Abang Blok F \n Jl. Kebon Jati No.96, Kampung Bali, \n Jakarta Pusat, DKI Jakarta 10250",
 //   phone: "+62 852-8007-1275 \n +62 811-8185-266",
-//   email: "info@varisha.com",
+//   email: "vh.varishaofficial@gmail.com",
 //   operationalHours: "Senin – Sabtu, 08:00 – 17:00",
 // };
 
