@@ -56,7 +56,7 @@ const HomePage = () => {
             {/* Left Content */}
             <div className="relative z-10 flex flex-col justify-center lg:pr-16">
               <FadeInSection>
-                <p className="v-caption mb-4">New Collection 2025</p>
+                <p className="v-caption mb-4">New Collection 2026</p>
               </FadeInSection>
               <FadeInSection delay={0.1}>
                 <h1 className="v-heading-xl mb-6">

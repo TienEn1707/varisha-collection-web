@@ -31,7 +31,7 @@ export const Footer = () => {
               />
               <span
                 style={{ fontFamily: "var(--v-font-serif)" }}
-                className="text-[26px] font-light tracking-[1px] text-white"
+                className="text-[28px] font-light tracking-[1px] text-white"
               >
                 Varisha
               </span>
