@@ -137,7 +137,7 @@ const ProductDetailPage = () => {
                     className="v-btn-marketplace no-underline"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/shopee.svg" width="18" height="18" />
+                      <image href="/logo/shopee.svg" width="18" height="18" />
                     </svg>
                     Shopee
                     <ExternalLink size={12} className="opacity-50" />
@@ -149,7 +149,7 @@ const ProductDetailPage = () => {
                     className="v-btn-marketplace no-underline"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/tokopedia.svg" width="18" height="18" />
+                      <image href="/logo/tokopedia.svg" width="18" height="18" />
                     </svg>
                     Tokopedia
                     <ExternalLink size={12} className="opacity-50" />
@@ -161,7 +161,7 @@ const ProductDetailPage = () => {
                     className="v-btn-marketplace no-underline"
                   >
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="#C89B6B">
-                      <image href="/public/logo/tiktok.svg" width="18" height="18" />
+                      <image href="/logo/tiktok.svg" width="18" height="18" />
                     </svg>
                     TikTok Shop
                     <ExternalLink size={12} className="opacity-50" />
